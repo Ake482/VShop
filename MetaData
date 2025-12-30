@@ -1,0 +1,37 @@
+[
+
+ {
+        "source_url" : "Structured_Data/Orders_Data.csv",
+        "landing_schema": "Landing",
+        "landing_table": "Orders"
+    },
+    {
+         "source_url" : "Structured_Data/customers.csv",
+        "landing_schema": "Landing",
+        "landing_table": "Customers"
+
+    },
+    {
+        "source_url" : "Structured_Data/products.csv",
+        "landing_schema": "Landing",
+        "landing_table": "Products"
+
+    }   ,
+ {
+        "source_url" : "Unstructured_Data/reviews.json",
+        "landing_schema": "Landing",
+        "landing_table": "Review"
+    },
+    {
+         "source_url" : "Unstructured_Data/social_media.json",
+        "landing_schema": "Landing",
+        "landing_table": "Media"
+
+    },
+    {
+        "source_url" : "Unstructured_Data/web_logs.json",
+        "landing_schema": "Landing",
+        "landing_table": "WebLogs"
+
+    }
+]
