@@ -1,19 +1,14 @@
 [
         {
         "source_url" : "Unstructured_Data/reviews.json",
-        "landing_schema": "Landing",
-        "landing_table": "Review"
-    },
+        "landing_file": "reviews.json"
+         },
     {
          "source_url" : "Unstructured_Data/social_media.json",
-        "landing_schema": "Landing",
-        "landing_table": "Media"
-
-    },
+        "landing_file": "social_media.json"
+  },
     {
         "source_url" : "Unstructured_Data/web_logs.json",
-        "landing_schema": "Landing",
-        "landing_table": "WebLogs"
-
+        "landing_file": "web_logs.json"
     }
 ]
