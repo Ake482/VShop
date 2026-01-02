@@ -1,19 +1,16 @@
 [
     {
-        "source_url" : "Structured_Data/Orders_Data.csv",
-        "landing_schema": "Landing",
-        "landing_table": "Orders"
+        "source_url" : "Structured_Data/orders.csv",
+        "landing_file": "orders.csv"
     },
     {
          "source_url" : "Structured_Data/customers.csv",
-        "landing_schema": "Landing",
-        "landing_table": "Customers"
+         "landing_file": "customers.csv"
 
     },
     {
         "source_url" : "Structured_Data/products.csv",
-        "landing_schema": "Landing",
-        "landing_table": "Products"
+        "landing_file": "products.csv"
 
     }
 ]
